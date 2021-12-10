@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request,redirect ,jsonify
+from flask import Flask, render_template, request,redirect 
 # from flask_restful import Resource, Api, reqparse
 import json
 from flask_cors import CORS
